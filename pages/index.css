@@ -1,0 +1,6 @@
+@import url(../blocks/page.css);
+@import url(../blocks/header/__logo/header__logo.css);
+@import url(../blocks/header/__lang/header_lang.css);
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__lang/__lang-link/header__lang-link.css);
+@import url(../blocks/header/__lang/__lang-link/_active/header__lang-link_active.css);
