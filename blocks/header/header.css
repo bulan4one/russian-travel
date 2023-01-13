@@ -2,5 +2,20 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin: 28px 48px 56px 48px;
+  margin: 28px auto 48px;
+  max-width: calc(100% - 96px);
+  padding-right: 48px;
+  padding-left: 48px;
+}
+
+@media (max-width: 1024px) {
+  .header {
+    max-width: calc(100% - 96px);
+  }
+}
+
+@media (max-width: 768px) {
+  .header {
+    max-width: calc(100% - 96px);
+  }
 }
