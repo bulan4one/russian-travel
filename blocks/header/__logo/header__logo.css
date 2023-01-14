@@ -13,3 +13,13 @@
     background-repeat: no-repeat;
   }
 }
+
+@media screen and (max-width: 768px) {
+  .header__logo{
+    width: 176px;
+    height: 52px;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
+}
