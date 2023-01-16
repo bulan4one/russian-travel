@@ -6,13 +6,13 @@
   max-width: calc(100% - 96px);
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1024px) {
   .header {
     max-width: calc(100% - 48px);
   }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 768px) {
   .header {
     max-width: calc(100% - 32px);
     margin: 16px auto 48px;
