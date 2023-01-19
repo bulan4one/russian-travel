@@ -5,3 +5,4 @@
 ======================================
 Макет проектной работы взят с ресурса https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-%2B-mobile?node-id=28503%3A0&t=khim8qqWMXzByhKB-1
 =======================================
+Проект опубликован на GitHub Pages: https://bulan4one.github.io/russian-travel/
