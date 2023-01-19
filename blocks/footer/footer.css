@@ -1,20 +1,24 @@
-.header {
+.footer {
   display: flex;
   justify-content: space-between;
-  align-items: flex-end;
-  margin: 28px auto 56px;
   max-width: calc(100% - 96px);
+  margin: 0 auto;
+}
+
+@media screen and (max-width: 768px) {
+  .footer {
+    flex-direction: column;
+  }
 }
 
 @media screen and (max-width: 1024px) {
-  .header {
+  .footer {
     max-width: calc(100% - 48px);
   }
 }
 
 @media screen and (max-width: 768px) {
-  .header {
+  .footer {
     max-width: calc(100% - 32px);
-    margin: 16px auto 48px;
   }
 }
