@@ -1,4 +1,4 @@
-.header__lang_link {
+.header__lang-link {
   text-decoration: none;
   color: #fff;
   padding-left: 18px;
@@ -8,12 +8,12 @@
   transition: 0.2s ease-in-out;
 }
 
-.header__lang_link:hover {
+.header__lang-link:hover {
   opacity: 0.5;
 }
 
 @media screen and (max-width: 767px) {
-  .header__lang_link {
+  .header__lang-link {
     font-size: 18px;
     line-height: 20px;
   }
