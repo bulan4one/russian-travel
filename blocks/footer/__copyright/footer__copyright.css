@@ -4,9 +4,10 @@
   line-height: 16px;
   letter-spacing: 0em;
   text-align: right;
+  margin-top: 0;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   .footer__copyright {
     text-align: start;
     margin-bottom: 24px;
