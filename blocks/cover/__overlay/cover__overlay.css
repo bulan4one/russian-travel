@@ -26,6 +26,7 @@
   left: 0;
   transition: 1s ease;
   width: 100%;
+  height: 100%;
 }
 
 .cover__overlay:hover::before {
@@ -48,6 +49,5 @@
   .cover__overlay {
     min-height: 200px;
     justify-content: flex-start;
-    width: 100%;
   }
 }
